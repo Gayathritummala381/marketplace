@@ -1,0 +1,15 @@
+.active {
+    color: #000;
+    border-left: 2px solid black;
+}
+
+.createBtnCss {
+    padding: 24px;
+    outline: none;
+}
+
+.buttonDiv {
+    position: fixed;
+    bottom: 0px;
+    left: 0px;
+}
